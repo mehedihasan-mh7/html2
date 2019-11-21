@@ -1,0 +1,25 @@
+h1{
+   
+	color: rgb(64,0,128);
+    display: inline;
+    background-color: rgb(0, 255, 0);
+
+}
+.h1{
+	color: rgb(0, 0, 230);
+	display: inline;
+	text-align: center; 
+    
+}
+.list{
+  height: 30%;
+  width: 100%;
+	background: black;
+	display: block;
+}
+#row{
+    color: blue;
+    text-align: center;
+    background: black;
+
+}
